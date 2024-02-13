@@ -87,4 +87,5 @@ reverse_number = number[::-1]
 if number == reverse_number:
     print("The entered number is a palindrome.")
 else:
-    print("The number entered is not a palindrome.")
+    print("The number entered is not a palindrome.") 
+    
