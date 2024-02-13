@@ -75,10 +75,6 @@ print("The area of the circle is:", area)
 print("The perimeter of the circle is:", perimeter)
 
 
-
-#5-Kullanıcıdan alınan bir sayının palindrom olup olmadığını bulan bir program yazınız.
-
-
 # 5.Kullanıcıdan alınan bir sayının palindrom olup olmadığını bulan bir program yazınız.
 
 # Kullanıcıdan bir sayı alınır
