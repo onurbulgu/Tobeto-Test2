@@ -10,7 +10,7 @@ print(text+kullaniciAdi)
 studentCount = "45" #string
 print(studentCount +"5") #455
 
-studentCount = 5 #integer=> tam sayı 
+studentCount = 5 #integer=> tam sayı
 print(studentCount + 5)
 
 averagePoint = 25.5 # double- decimal - float => ondalıklı sayılar

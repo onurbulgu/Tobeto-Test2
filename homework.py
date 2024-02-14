@@ -1,5 +1,7 @@
 #1-Kullanıcının girdiği boy ve ağırlık değerlerine göre vücut kitle indeksini (VKİ = ağırlık/(boy*boy)) hesaplayınız.
 
+question_height = float(input("What is your hegiht?:"))
+question_weight = float(input("What is your weight?:"))
 bmi_calculation = float(question_weight / (question_height * question_height))
 
 if bmi_calculation <= 18.5:
